@@ -1,5 +1,5 @@
 _repo: The-Unknown-Guest_2033
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: L'hôte inconnu. English
 contributor:
   translator:
@@ -12,6 +12,9 @@ contributor:
     deathdate: 1921
     gutenberg_agent_id: '736'
     url: http://www.gutenberg.org/2009/agents/736
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Maeterlinck, Maurice
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/795
     wikipedia: http://en.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2033#The-Unknown-Guest
 gutenberg_issued: '2000-01-01'
 gutenberg_type: Text
 identifiers:
